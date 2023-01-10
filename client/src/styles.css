@@ -1,0 +1,26 @@
+.navbar {
+  margin-bottom: 5px;
+}
+#content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+}
+
+#content button {
+  margin-bottom: 10px;
+  width: 120px;
+}
+
+.item {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin-bottom: 10px;
+}
+
+.item p,
+.item h4 {
+  margin: 0px;
+}
